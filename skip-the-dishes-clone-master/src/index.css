@@ -1,0 +1,15 @@
+body {
+  color: #162028;
+  font-size: 14px;
+  font-family: CoreSans, sans-serif;
+  font-weight: 500;
+  line-height: 21px;
+  letter-spacing: 0;
+  margin: 0;
+  padding: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
